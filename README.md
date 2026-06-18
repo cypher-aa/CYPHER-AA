@@ -78,8 +78,7 @@ Multi-assistant AI workspace built with FastAPI, React, and Gemini API for codin
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: [Your LinkedIn]
-
+💼 LinkedIn: https://www.linkedin.com/in/arfat-khan-0211a3265/
 📧 Email: [arfathkhan787@gmail.com](mailto:arfathkhan787@gmail.com)
 
 🐙 GitHub: github.com/cypher-aa
