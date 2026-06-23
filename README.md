@@ -1,22 +1,20 @@
 # 👋 Hi, I'm Arfat Khan
 
-🚀 AI/ML Engineer passionate about building Machine Learning systems, LLM applications, and AI-powered products.
+# Arfat Khan — AI/ML Engineer
 
-I enjoy understanding technology from first principles and connecting ideas across AI, software engineering, startups, infrastructure, and business. My focus is on turning ideas into end to end products that solve real-world problems.
+I build production-ready AI systems — RAG pipelines, 
+multi-agent architectures, and LLM-powered applications.
 
----
+Recent work:
+- Fraud Detection — 97% accuracy, 89% recall on 284K+ transactions
+- HyperMind AI — multi-agent workspace, FastAPI + Gemini API, live on Replit
+- AutoML Studio — automated ML pipeline, 7+ algorithms, ~70% faster experimentation
+- AI Resume Analyzer — LLM pipeline tested across 100+ resume/JD pairs
 
-## 🧠 About Me
+Everything I build runs in production, not just notebooks.
 
-🎓 Computer Science Graduate
-
-🤖 Building AI/ML and LLM Applications
-
-⚡ Interested in Machine Learning, LLM , RAG, FastAPI, AI Systems, and Product Development
-
-🔍 Systems Thinker | First-Principles Learner
-
-📍 Mumbai, India
+📍 Mumbai | 📧 arfathkhan787@gmail.com
+🔗 linkedin.com/in/arfat-khan-0211a3265
 
 ---
 
