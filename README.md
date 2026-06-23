@@ -42,8 +42,6 @@ Built and deployed 4 AI products spanning fraud detection, AutoML, resume intell
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 💳 Fraud Detection System | 97% Accuracy | 89% Recall
 
 Built an end-to-end fraud detection pipeline trained on 284,807 real-world transactions using 31 engineered features. Achieved 97% accuracy and 89% recall on highly imbalanced fraud data through feature engineering, SMOTE, and threshold optimization.
