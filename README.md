@@ -14,8 +14,6 @@ Recent work:
 Everything I build runs in production, not just notebooks.
 
 📍 Mumbai | 📧 arfathkhan787@gmail.com
-🔗 linkedin.com/in/arfat-khan-0211a3265
-
 ---
 
 ## 🛠️ Tech Stack
@@ -62,18 +60,6 @@ Built and deployed a multi-agent AI workspace using FastAPI, React, and Gemini, 
 
 ---
 
-## 🎯 Current Focus
-
-🌱 Building production-ready AI applications
-
-📚 Deepening expertise in Machine Learning and LLM Engineering
-
-⚙️ Exploring scalable AI systems and backend architectures
-
-🚀 Looking for opportunities to contribute to innovative AI teams
-
----
-
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/arfat-khan-0211a3265/
@@ -82,5 +68,3 @@ Built and deployed a multi-agent AI workspace using FastAPI, React, and Gemini, 
 🐙 GitHub: github.com/cypher-aa
 
 ---
-
-⭐ Always learning, always building, and always curious about how systems work beneath the surface.
