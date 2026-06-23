@@ -1,17 +1,17 @@
+# 👋 Hi, I'm Arfat Khan
 
+AI/ML Engineer building production-ready Machine Learning, LLM, and AI systems.
 
-# Arfat Khan — AI/ML Engineer
+Built and deployed 4 AI products spanning fraud detection, AutoML, resume intelligence, and multi-agent AI systems using Python, FastAPI, LangChain, RAG, and modern AI infrastructure.
 
-I build production-ready AI systems — RAG pipelines, 
-multi-agent architectures, and LLM-powered applications.
+## 📈 Highlights
 
-Recent work:
-- Fraud Detection — 97% accuracy, 89% recall on 284K+ transactions
-- HyperMind AI — multi-agent workspace, FastAPI + Gemini API, live on Replit
-- AutoML Studio — automated ML pipeline, 7+ algorithms, ~70% faster experimentation
-- AI Resume Analyzer — LLM pipeline tested across 100+ resume/JD pairs
-
-Everything I build runs in production, not just notebooks.
+- 284,807+ transactions analyzed in a fraud detection pipeline
+- 97% fraud detection accuracy with 89% recall
+- 100+ resume and job description evaluations processed
+- 4 deployed AI applications
+- 4+ specialized AI agents integrated into production workflows
+- End-to-end ML pipelines covering training, evaluation, deployment, and inference
 
 📍 Mumbai | 📧 arfathkhan787@gmail.com
 ---
