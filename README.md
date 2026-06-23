@@ -46,21 +46,21 @@ I enjoy understanding technology from first principles and connecting ideas acro
 
 ## 🚀 Featured Projects
 
-### 💳 Fraud Detection System
+💳 Fraud Detection System
 
-Machine learning pipeline trained on 284K+ transactions using Logistic Regression, SMOTE, and threshold optimization to achieve high recall on highly imbalanced fraud data.
+Built an end-to-end fraud detection pipeline trained on 284,807 real-world transactions with 31 engineered features, tackling a dataset where fraudulent transactions represented <0.2% of all records. Applied SMOTE, feature engineering, and threshold optimization to maximize fraud detection performance on highly imbalanced data.
 
-### 🤖 AutoML Studio
+🤖 AutoML Studio
 
-End-to-end automated machine learning platform supporting data preprocessing, feature ranking, model training, and algorithm selection across multiple ML algorithms.
+Built an automated machine learning platform supporting multiple ML workflows including preprocessing, feature selection, model training, hyperparameter tuning, and evaluation. Automated 6+ stages of the ML lifecycle, reducing model experimentation time from hours to minutes.
 
-### 📄 AI Resume Analyzer
+📄 AI Resume Analyzer
 
-LLM-powered application that evaluates resumes against job descriptions, identifies skill gaps, and generates actionable recommendations.
+Built and deployed an LLM-powered application that evaluates resumes against job descriptions, analyzes dozens of skill and keyword matching signals, identifies gaps, and generates personalized recommendations within seconds.
 
-### 🧩 HyperMind AI
+🧩 HyperMind AI
 
-Multi-assistant AI workspace built with FastAPI, React, and Gemini API for coding, research, learning, and productivity workflows.
+Built and deployed a multi-agent AI workspace using FastAPI, React, and Gemini, integrating 4+ specialized AI agents for coding, research, learning, writing, and productivity workflows. Designed to execute multi-step tasks across thousands of tokens of context through agent orchestration, memory, and tool usage.
 
 ---
 
