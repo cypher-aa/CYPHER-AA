@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./banner.png" alt="AI Banner" width="100%">
+  <img src="./banner.png" width="700" alt="AI Banner">
 </p>
-
-<br>
 
 # 👋 Hi, I'm Arfat Khan
 
