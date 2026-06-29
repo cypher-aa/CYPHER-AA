@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="700" alt="AI Banner">
+ <img src="./banner2.png" width="700" alt="AI Banner">
 </p>
 
 # 👋 Hi, I'm Arfat Khan
