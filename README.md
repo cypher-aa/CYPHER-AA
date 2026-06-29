@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./banner.png" alt="AI Banner" width="100%">
+</p>
+
+<br>
+
 # 👋 Hi, I'm Arfat Khan
 
 AI/ML Engineer building production-ready Machine Learning, LLM, and AI systems.
