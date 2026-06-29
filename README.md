@@ -34,8 +34,8 @@ Built and deployed 4 AI products spanning fraud detection, AutoML, resume intell
 
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## 🤖 Machine Learning
 
@@ -55,7 +55,6 @@ Built and deployed 4 AI products spanning fraud detection, AutoML, resume intell
 ### ⚙️ Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST_API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
 
 ---
