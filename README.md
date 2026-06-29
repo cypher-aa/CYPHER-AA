@@ -22,25 +22,71 @@ Built and deployed 4 AI products spanning fraud detection, AutoML, resume intell
 
 ## 🛠️ Tech Stack
 
-### Languages
+# 💻 Tech Stack
 
-🐍 Python | 🗄️ SQL
+### 👨‍💻 Programming Languages
 
-### Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-📊 Scikit-Learn | XGBoost | Random Forest | Logistic Regression | Feature Engineering | SMOTE
+---
 
-### Deep Learning
+### 🧠 AI / LLM
 
-🔥 PyTorch | Neural Networks | CNNs
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### LLM & GenAI
+---
 
-🧠 LangChain | RAG | FAISS | ChromaDB | Hugging Face | OpenAI API | Gemini API
+### 🔍 RAG & Vector Search
 
-### Backend & Tools
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 
-⚡ FastAPI | Docker | Git | GitHub | Streamlit | REST APIs | VERCEL | GCP !
+---
+
+### ⚙️ Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST_API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+
+---
+
+### 🗄️ Database & Backend Services
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### ☁️ Deployment & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+### 🛠️ Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-8A2BE2?style=for-the-badge)
 
 ---
 
