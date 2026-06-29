@@ -52,7 +52,7 @@ Built and deployed 4 AI products spanning fraud detection, AutoML, resume intell
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend & API 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST_API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
