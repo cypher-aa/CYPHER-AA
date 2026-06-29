@@ -1,7 +1,7 @@
 <p align="center">
  <img src="./banner2.png" width="700" alt="AI Banner">
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Building+Production+AI+Systems;Enterprise+RAG+Developer;LLM+Application+Engineer;Future+AI+Founder)](https://git.io/typing-svg)
+
 # 👋 Hi, I'm Arfat Khan
 
 AI/ML Engineer building production-ready Machine Learning, LLM, and AI systems.
