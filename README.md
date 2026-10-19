@@ -1,5 +1,5 @@
 <p align="center">
- <img src="./banner2.png" width="700" alt="AI Banner">
+  <img src="./banner2.png" alt="Cypher Header" width="100%" />
 </p>
 
 # 👋 Hi, I'm Arfat Khan
