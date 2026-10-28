@@ -53,7 +53,7 @@
 
 **Tech Stack:** React, TypeScript, Vite, Node.js, Express 5, PostgreSQL, Drizzle ORM, Gemini API.
 
-🔗 [GitHub Repository](https://github.com/cypher-aa/Hypermind-AI)
+🔗 [GitHub Repository](https://github.com/cypher-aa/Hypermind-AI) . [Live Demo](https://hypermind-ai.onrender.com/)
 
 ---
 
@@ -71,7 +71,7 @@
 
 **Tech Stack:** TypeScript, Prisma, SQL, Row-Level Security, automated regression testing — verify the complete stack against the repository.
 
-🔗 [GitHub Repository](https://github.com/cypher-aa/FORGE-AI-2)
+🔗 [GitHub Repository](https://github.com/cypher-aa/FORGE-AI-2) . [Live Demo](https://forgeai-i0vz.onrender.com/)
 
 ---
 
@@ -98,7 +98,6 @@
 
 ### 🧠 Deep Learning & LLM Engineering
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
@@ -112,7 +111,7 @@
 
 ### ⚙️ Backend & Databases
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -130,7 +129,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
